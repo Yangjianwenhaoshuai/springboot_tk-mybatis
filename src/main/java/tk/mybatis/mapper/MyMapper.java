@@ -4,7 +4,7 @@ import tk.mybatis.mapper.common.Mapper;
 import tk.mybatis.mapper.common.MySqlMapper;
 
 /**
- * 自己的mapper不能被spring扫描到
+ * 自己的mapper不能被springboot扫描到
  * 不然会出错
  * @param <T>
  */
